@@ -66,7 +66,7 @@ Business Insights
 
 
 📁 Repository Structure
-
+```
 Recruitment-Analytics/
 │
 ├── Analysis.py
@@ -78,7 +78,7 @@ Recruitment-Analytics/
 │   └── job_applicant_dataset.csv
 │
 └── Recruitment_Analytics_Dashboard.png
-
+```
 📈 Key Insights
 - Processed recruitment data containing **10,000 applicants**.
 - Calculated applicant selection and rejection statistics.
