@@ -76,7 +76,7 @@ Business Insights
 > Replace the path below after uploading your dashboard screenshot.
 
 ```markdown
-![Dashboard](Images/Recruitment_Analysis.png)
+![Dashboard](Images/Recruitment_Analytics_Dashboard.png)
 ```
 
 ---
@@ -106,7 +106,7 @@ Recruitment-Analytics/
 - Calculated applicant selection and rejection statistics.
 - Measured an overall **Selection Rate of 48.5%**.
 - Identified the **Top 10 most applied job roles**.
-- Explored applicant demographics through interactive visualizations.
+- Explored applicant demographics through interactive visualisations.
 
 ---
 
