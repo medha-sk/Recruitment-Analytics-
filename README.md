@@ -40,11 +40,11 @@ Recruitment Dataset
 Python
 • Data Cleaning
 • Exploratory Data Analysis (EDA)
-• Data Visualization
+• Data Visualisation
         │
         ▼
 Power BI
-• Data Modeling
+• Data Modelling
 • DAX Measures
 • Interactive Dashboard
         │
@@ -92,10 +92,9 @@ Recruitment-Analytics/
 ├── README.md
 │
 ├── Data/
-│   └── recruitment_dataset.csv
+│   └── job_applicant_dataset.csv
 │
-└── Images/
-    └── Recruitment_Analysis.png
+└── Recruitment_Analytics_Dashboard.png
 ```
 
 ---
