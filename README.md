@@ -1,26 +1,23 @@
 # 📊 Recruitment Analytics Dashboard
 
-An end-to-end Recruitment Analytics project developed using **Python** and **Power BI** to analyze applicant data and provide actionable HR insights through an interactive dashboard.
+An end-to-end Recruitment Analytics project developed using **Python** and **Power BI** to analyse applicant data and provide actionable HR insights through an interactive dashboard.
 
----
 
-## 📌 Project Overview
+📌 Project Overview
 
-This project focuses on analyzing recruitment data to help HR teams understand hiring performance, applicant demographics, and recruitment trends. The data was explored and cleaned using Python, followed by the development of an interactive Power BI dashboard for visualization and business insights.
+This project focuses on analysing recruitment data to help HR teams understand hiring performance, applicant demographics, and recruitment trends. The data was explored and cleaned using Python, followed by the development of an interactive Power BI dashboard for visualisation and business insights.
 
----
 
-## 🎯 Objectives
+🎯 Objectives
 
-- Analyze recruitment data efficiently.
+- Analyse recruitment data efficiently.
 - Calculate key hiring metrics.
 - Identify applicant trends.
-- Visualize demographic distribution.
+- Visualise demographic distribution.
 - Build an interactive dashboard for HR decision-making.
 
----
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -29,11 +26,9 @@ This project focuses on analyzing recruitment data to help HR teams understand h
 - Power BI
 - DAX
 
----
 
-## 📂 Project Workflow
+📂 Project Workflow
 
-```
 Recruitment Dataset
         │
         ▼
@@ -50,11 +45,8 @@ Power BI
         │
         ▼
 Business Insights
-```
 
----
-
-## 📊 Dashboard Features
+📊 Dashboard Features
 
 - 📌 Total Applicants KPI
 - ✅ Total Selected KPI
@@ -69,21 +61,12 @@ Business Insights
   - Race
   - Ethnicity
 
----
+📸 Dashboard Preview
+<img width="1291" height="726" alt="Recruitment_Analytics_Dashboard" src="https://github.com/user-attachments/assets/3d8318d4-ce2c-4f87-89e3-0a0c7cce6646" />
 
-## 📸 Dashboard Preview
 
-> Replace the path below after uploading your dashboard screenshot.
+📁 Repository Structure
 
-```markdown
-![Dashboard](Images/Recruitment_Analytics_Dashboard.png)
-```
-
----
-
-## 📁 Repository Structure
-
-```
 Recruitment-Analytics/
 │
 ├── Analysis.py
@@ -95,36 +78,25 @@ Recruitment-Analytics/
 │   └── job_applicant_dataset.csv
 │
 └── Recruitment_Analytics_Dashboard.png
-```
 
----
-
-## 📈 Key Insights
-
+📈 Key Insights
 - Processed recruitment data containing **10,000 applicants**.
 - Calculated applicant selection and rejection statistics.
 - Measured an overall **Selection Rate of 48.5%**.
 - Identified the **Top 10 most applied job roles**.
 - Explored applicant demographics through interactive visualisations.
 
----
 
-## 🚀 Future Improvements
-
+🚀 Future Improvements
 - Monthly hiring trend analysis
 - Time-to-hire analysis
 - Recruitment source effectiveness
 - Offer acceptance analysis
 - Predictive hiring analytics using Machine Learning
 
----
 
-## 👩‍💻 Author
-
-**Medha Shankari K**
-
+👩‍💻 Author
+Medha Shankari K
 Computer Science Engineering Student | Aspiring Data Analyst
 
----
-
-## ⭐ If you found this project useful, consider giving it a star!
+⭐ If you found this project useful, consider giving it a star!
